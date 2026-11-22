@@ -1,0 +1,472 @@
+.editorconfig
+  h_710b3f73d0a3ea 1-11
+.eslintrc.json
+  h_710b3f73d0a3ea 1-34
+.github/ISSUE_TEMPLATE.md
+  h_710b3f73d0a3ea 1-36
+.github/ISSUE_TEMPLATE/其他问题.md
+  h_710b3f73d0a3ea 1-32
+.github/ISSUE_TEMPLATE/功能请求.md
+  h_710b3f73d0a3ea 1-29
+.github/ISSUE_TEMPLATE/支持问题.md
+  h_710b3f73d0a3ea 1-32
+.github/ISSUE_TEMPLATE/错误报告.md
+  h_710b3f73d0a3ea 1-32
+.github/PULL_REQUEST_TEMPLATE.md
+  h_710b3f73d0a3ea 1-35
+.github/workflows/auto_update.yml
+  h_710b3f73d0a3ea 1-71
+.gitignore
+  h_710b3f73d0a3ea 1-33
+CODE_OF_CONDUCT.md
+  h_710b3f73d0a3ea 1-3
+CONTRIBUTING.md
+  h_710b3f73d0a3ea 1-3
+LICENSE
+  h_710b3f73d0a3ea 1-674
+README.md
+  h_710b3f73d0a3ea 1-19
+_headers
+  h_710b3f73d0a3ea 1-19
+assets/exit-android.html
+  h_710b3f73d0a3ea 1-17
+assets/exit-ios.html
+  h_710b3f73d0a3ea 1-17
+assets/meta/favicon.svg
+  h_710b3f73d0a3ea 1-15
+card/extra.js
+  h_710b3f73d0a3ea 1-1239
+card/gujian.js
+  h_710b3f73d0a3ea 1-2017
+card/guozhan.js
+  h_710b3f73d0a3ea 1-2251
+card/gwent.js
+  h_710b3f73d0a3ea 1-2446
+card/hearth.js
+  h_710b3f73d0a3ea 1-756
+card/huanlekapai.js
+  h_710b3f73d0a3ea 1-316
+card/mtg.js
+  h_710b3f73d0a3ea 1-768
+card/sp.js
+  h_710b3f73d0a3ea 1-718
+card/standard.js
+  h_710b3f73d0a3ea 1-4731
+card/swd.js
+  h_710b3f73d0a3ea 1-5790
+card/yingbian.js
+  h_710b3f73d0a3ea 1-1037
+card/yongjian.js
+  h_710b3f73d0a3ea 1-925
+card/yunchou.js
+  h_710b3f73d0a3ea 1-1073
+card/zhenfa.js
+  h_710b3f73d0a3ea 1-457
+card/zhulu.js
+  h_710b3f73d0a3ea 1-1050
+character/clan.js
+  h_710b3f73d0a3ea 1-4295
+character/collab.js
+  h_710b3f73d0a3ea 1-2423
+character/ddd.js
+  h_710b3f73d0a3ea 1-6882
+character/diy.js
+  h_710b3f73d0a3ea 1-22398
+character/extra.js
+  h_710b3f73d0a3ea 1-10891
+character/gujian.js
+  h_710b3f73d0a3ea 1-2957
+character/gwent.js
+  h_710b3f73d0a3ea 1-5006
+character/hearth.js
+  h_710b3f73d0a3ea 1-10754
+character/huicui.js
+  h_710b3f73d0a3ea 1-16320
+character/jiange.js
+  h_710b3f73d0a3ea 1-609
+character/jsrg.js
+  h_710b3f73d0a3ea 1-10310
+character/mobile.js
+  h_710b3f73d0a3ea 1-21256
+character/mtg.js
+  h_710b3f73d0a3ea 1-516
+character/offline.js
+  h_710b3f73d0a3ea 1-8989
+character/old.js
+  h_710b3f73d0a3ea 1-1517
+character/onlyOL.js
+  h_710b3f73d0a3ea 1-1942
+character/ow.js
+  h_710b3f73d0a3ea 1-3914
+character/rank.js
+  h_710b3f73d0a3ea 1-2750
+character/refresh.js
+  h_710b3f73d0a3ea 1-18865
+character/sb.js
+  h_710b3f73d0a3ea 1-9013
+character/shenhua.js
+  h_710b3f73d0a3ea 1-9557
+character/shiji.js
+  h_710b3f73d0a3ea 1-8431
+character/sp.js
+  h_710b3f73d0a3ea 1-34605
+character/sp2.js
+  h_710b3f73d0a3ea 1-14575
+character/standard.js
+  h_710b3f73d0a3ea 1-2927
+character/swd.js
+  h_710b3f73d0a3ea 1-10980
+character/tw.js
+  h_710b3f73d0a3ea 1-21102
+character/xiake.js
+  h_710b3f73d0a3ea 1-123
+character/xianding.js
+  h_710b3f73d0a3ea 1-19722
+character/xianjian.js
+  h_710b3f73d0a3ea 1-4665
+character/xinghuoliaoyuan.js
+  h_710b3f73d0a3ea 1-1998
+character/yijiang.js
+  h_710b3f73d0a3ea 1-17233
+character/yingbian.js
+  h_710b3f73d0a3ea 1-5017
+character/yxs.js
+  h_710b3f73d0a3ea 1-3354
+character/zhuogui.js
+  h_710b3f73d0a3ea 1-343
+eslint.config.mjs
+  h_710b3f73d0a3ea 1-39
+game/NoSleep.js
+  h_710b3f73d0a3ea 1-192
+game/asset.js
+  h_710b3f73d0a3ea 1-9756
+game/canUse.ts
+  h_710b3f73d0a3ea 1-4
+game/codemirror.js
+  h_710b3f73d0a3ea 1-10458
+game/compiler-sfc.esm-browser.js
+  h_710b3f73d0a3ea 1-48237
+game/config.js
+  h_710b3f73d0a3ea 1-410
+game/core-js-bundle.js
+  h_710b3f73d0a3ea 1-27253
+game/directory.js
+  h_710b3f73d0a3ea 1-198
+game/entry.js
+  h_710b3f73d0a3ea 1-171
+game/game.js
+  h_710b3f73d0a3ea 1-302
+game/http.js
+  h_710b3f73d0a3ea 1-111
+game/jszip.js
+  h_710b3f73d0a3ea 1-11690
+game/keyWords.js
+  h_710b3f73d0a3ea 1-3
+game/package.js
+  h_710b3f73d0a3ea 1-144
+game/phantom.js
+  h_710b3f73d0a3ea 1-29
+game/pinyinjs.js
+  h_710b3f73d0a3ea 1-41649
+game/pressure.js
+  h_710b3f73d0a3ea 1-576
+game/server.js
+  h_710b3f73d0a3ea 1-402
+game/source.js
+  h_710b3f73d0a3ea 1-315
+game/typescript.js
+  h_710b3f73d0a3ea 1-172285
+game/update.js
+  h_710b3f73d0a3ea 1-8
+game/vue.esm-browser.js
+  h_710b3f73d0a3ea 1-16684
+index.html
+  h_710b3f73d0a3ea 1-285
+layout/default/codemirror.css
+  h_710b3f73d0a3ea 1-812
+layout/default/layout.css
+  h_710b3f73d0a3ea 1-5681
+layout/default/menu.css
+  h_710b3f73d0a3ea 1-2090
+layout/default/phone.css
+  h_710b3f73d0a3ea 1-120
+layout/long/layout.css
+  h_710b3f73d0a3ea 1-410
+layout/long2/layout.css
+  h_710b3f73d0a3ea 1-630
+layout/mobile/equip.css
+  h_710b3f73d0a3ea 1-225
+layout/mobile/layout.css
+  h_710b3f73d0a3ea 1-373
+layout/mode/boss.css
+  h_710b3f73d0a3ea 1-184
+layout/mode/chess.css
+  h_710b3f73d0a3ea 1-346
+layout/mode/stone.css
+  h_710b3f73d0a3ea 1-513
+layout/mode/story.css
+  h_710b3f73d0a3ea 1-230
+layout/mode/tafang.css
+  h_710b3f73d0a3ea 1-247
+layout/newlayout/equip.css
+  h_710b3f73d0a3ea 1-146
+layout/newlayout/global.css
+  h_710b3f73d0a3ea 1-948
+layout/newlayout/layout.css
+  h_710b3f73d0a3ea 1-2
+layout/nova/layout.css
+  h_710b3f73d0a3ea 1-448
+manifest.json
+  h_710b3f73d0a3ea 1-24
+mode/boss.js
+  h_710b3f73d0a3ea 1-10574
+mode/brawl.js
+  h_710b3f73d0a3ea 1-5430
+mode/chess.js
+  h_710b3f73d0a3ea 1-6664
+mode/connect.js
+  h_710b3f73d0a3ea 1-215
+mode/doudizhu.js
+  h_710b3f73d0a3ea 1-3797
+mode/guozhan.js
+  h_710b3f73d0a3ea 1-25691
+mode/identity.js
+  h_710b3f73d0a3ea 1-4942
+mode/realtime.js
+  h_710b3f73d0a3ea 1-8
+mode/single.js
+  h_710b3f73d0a3ea 1-2284
+mode/stone.js
+  h_710b3f73d0a3ea 1-11370
+mode/tafang.js
+  h_710b3f73d0a3ea 1-1251
+mode/versus.js
+  h_710b3f73d0a3ea 1-8805
+noname.js
+  h_710b3f73d0a3ea 1-8
+noname/ai/basic.js
+  h_710b3f73d0a3ea 1-234
+noname/ai/index.js
+  h_710b3f73d0a3ea 1-22
+noname/game/check.js
+  h_710b3f73d0a3ea 1-151
+noname/game/dynamic-style/index.js
+  h_710b3f73d0a3ea 1-220
+noname/game/index.js
+  h_710b3f73d0a3ea 1-8919
+noname/game/promises.js
+  h_710b3f73d0a3ea 1-129
+noname/get/index.js
+  h_710b3f73d0a3ea 1-5229
+noname/get/is.js
+  h_710b3f73d0a3ea 1-551
+noname/get/promises.js
+  h_710b3f73d0a3ea 1-10
+noname/gnc/index.js
+  h_710b3f73d0a3ea 1-65
+noname/gnc/is.js
+  h_710b3f73d0a3ea 1-33
+noname/init/cordova.js
+  h_710b3f73d0a3ea 1-348
+noname/init/import.js
+  h_710b3f73d0a3ea 1-166
+noname/init/index.js
+  h_710b3f73d0a3ea 1-1205
+noname/init/node.js
+  h_710b3f73d0a3ea 1-266
+noname/init/onload.js
+  h_710b3f73d0a3ea 1-919
+noname/init/polyfill.js
+  h_710b3f73d0a3ea 1-693
+noname/library/announce/index.d.ts
+  h_710b3f73d0a3ea 1-66
+noname/library/announce/index.js
+  h_710b3f73d0a3ea 1-162
+noname/library/announce/interface.d.ts
+  h_710b3f73d0a3ea 1-50
+noname/library/assembly/buildin.js
+  h_710b3f73d0a3ea 1-113
+noname/library/assembly/index.js
+  h_710b3f73d0a3ea 1-140
+noname/library/assembly/interface.d.ts
+  h_710b3f73d0a3ea 1-61
+noname/library/cache/cacheContext.js
+  h_710b3f73d0a3ea 1-215
+noname/library/cache/childNodesWatcher.js
+  h_710b3f73d0a3ea 1-23
+noname/library/channel/index.js
+  h_710b3f73d0a3ea 1-86
+noname/library/crypt/md5.js
+  h_710b3f73d0a3ea 1-254
+noname/library/element/button.js
+  h_710b3f73d0a3ea 1-54
+noname/library/element/card.js
+  h_710b3f73d0a3ea 1-837
+noname/library/element/client.js
+  h_710b3f73d0a3ea 1-72
+noname/library/element/content.js
+  h_710b3f73d0a3ea 1-9276
+noname/library/element/contents.js
+  h_710b3f73d0a3ea 1-391
+noname/library/element/control.js
+  h_710b3f73d0a3ea 1-135
+noname/library/element/dialog.js
+  h_710b3f73d0a3ea 1-215
+noname/library/element/gameEvent.js
+  h_710b3f73d0a3ea 1-954
+noname/library/element/gameEventPromise.js
+  h_710b3f73d0a3ea 1-257
+noname/library/element/index.js
+  h_710b3f73d0a3ea 1-12
+noname/library/element/nodeWS.js
+  h_710b3f73d0a3ea 1-20
+noname/library/element/player.js
+  h_710b3f73d0a3ea 1-11052
+noname/library/element/vcard.js
+  h_710b3f73d0a3ea 1-131
+noname/library/experimental/index.js
+  h_710b3f73d0a3ea 1-8
+noname/library/experimental/symbol.js
+  h_710b3f73d0a3ea 1-5
+noname/library/hooks/buildin.js
+  h_710b3f73d0a3ea 1-173
+noname/library/hooks/hook.js
+  h_710b3f73d0a3ea 1-37
+noname/library/hooks/index.js
+  h_710b3f73d0a3ea 1-11
+noname/library/hooks/interface.d.ts
+  h_710b3f73d0a3ea 1-100
+noname/library/index.js
+  h_710b3f73d0a3ea 1-14577
+noname/library/init/index.js
+  h_710b3f73d0a3ea 1-1008
+noname/library/init/promises.js
+  h_710b3f73d0a3ea 1-66
+noname/library/path.js
+  h_710b3f73d0a3ea 1-521
+noname/library/update-urls.js
+  h_710b3f73d0a3ea 1-4
+noname/library/update.js
+  h_710b3f73d0a3ea 1-615
+noname/status/index.js
+  h_710b3f73d0a3ea 1-91
+noname/ui/click/index.js
+  h_710b3f73d0a3ea 1-4207
+noname/ui/create/index.js
+  h_710b3f73d0a3ea 1-3251
+noname/ui/create/menu/index.js
+  h_710b3f73d0a3ea 1-539
+noname/ui/create/menu/pages/cardPackMenu.js
+  h_710b3f73d0a3ea 1-678
+noname/ui/create/menu/pages/characterPackMenu.js
+  h_710b3f73d0a3ea 1-545
+noname/ui/create/menu/pages/exetensionMenu.js
+  h_710b3f73d0a3ea 1-2936
+noname/ui/create/menu/pages/optionsMenu.js
+  h_710b3f73d0a3ea 1-1113
+noname/ui/create/menu/pages/otherMenu.js
+  h_710b3f73d0a3ea 1-1681
+noname/ui/create/menu/pages/startMenu.js
+  h_710b3f73d0a3ea 1-416
+noname/ui/index.js
+  h_710b3f73d0a3ea 1-719
+noname/util/browser.js
+  h_710b3f73d0a3ea 1-19
+noname/util/config.js
+  h_710b3f73d0a3ea 1-32
+noname/util/index.js
+  h_710b3f73d0a3ea 1-52
+noname/util/mutex.js
+  h_710b3f73d0a3ea 1-75
+noname/util/struct/index.js
+  h_710b3f73d0a3ea 1-5
+noname/util/struct/interface/index.d.ts
+  h_710b3f73d0a3ea 1-5
+noname/util/struct/interface/promise-error-handler.d.ts
+  h_710b3f73d0a3ea 1-53
+noname/util/struct/promise-error-handler/chrome.js
+  h_710b3f73d0a3ea 1-200
+noname/util/struct/promise-error-handler/firefox.js
+  h_710b3f73d0a3ea 1-40
+noname/util/struct/promise-error-handler/index.js
+  h_710b3f73d0a3ea 1-13
+noname/util/struct/promise-error-handler/unknown.js
+  h_710b3f73d0a3ea 1-32
+prettier.config.mjs
+  h_710b3f73d0a3ea 1-13
+pwa.js
+  h_710b3f73d0a3ea 1-127
+service-worker.js
+  h_710b3f73d0a3ea 1-219
+sw.js
+  h_710b3f73d0a3ea 1-82
+theme/music/style.css
+  h_710b3f73d0a3ea 1-150
+theme/simple/style.css
+  h_710b3f73d0a3ea 1-246
+theme/style/card/custom.css
+  h_710b3f73d0a3ea 1-35
+theme/style/card/default.css
+  h_710b3f73d0a3ea 1
+theme/style/card/music.css
+  h_710b3f73d0a3ea 1-20
+theme/style/card/new.css
+  h_710b3f73d0a3ea 1-36
+theme/style/card/ol.css
+  h_710b3f73d0a3ea 1-36
+theme/style/card/simple.css
+  h_710b3f73d0a3ea 1-36
+theme/style/card/wood.css
+  h_710b3f73d0a3ea 1-20
+theme/style/cardback/custom.css
+  h_710b3f73d0a3ea 1-7
+theme/style/cardback/default.css
+  h_710b3f73d0a3ea 1
+theme/style/cardback/feicheng.css
+  h_710b3f73d0a3ea 1-9
+theme/style/cardback/liusha.css
+  h_710b3f73d0a3ea 1-9
+theme/style/cardback/music.css
+  h_710b3f73d0a3ea 1-7
+theme/style/cardback/new.css
+  h_710b3f73d0a3ea 1-9
+theme/style/cardback/official.css
+  h_710b3f73d0a3ea 1-9
+theme/style/cardback/ol.css
+  h_710b3f73d0a3ea 1-9
+theme/style/cardback/wood.css
+  h_710b3f73d0a3ea 1-7
+theme/style/hp/custom.css
+  h_710b3f73d0a3ea 1-68
+theme/style/hp/default.css
+  h_710b3f73d0a3ea 1
+theme/style/hp/emotion.css
+  h_710b3f73d0a3ea 1-72
+theme/style/hp/glass.css
+  h_710b3f73d0a3ea 1-72
+theme/style/hp/official.css
+  h_710b3f73d0a3ea 1-69
+theme/style/hp/ol.css
+  h_710b3f73d0a3ea 1-73
+theme/style/hp/round.css
+  h_710b3f73d0a3ea 1-72
+theme/style/hp/xinglass.css
+  h_710b3f73d0a3ea 1-72
+theme/style/hp/xinround.css
+  h_710b3f73d0a3ea 1-72
+theme/woodden/style.css
+  h_710b3f73d0a3ea 1-285
+tsconfig.json
+  h_710b3f73d0a3ea 1-104
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "f5379e7a1d69e1a2455a8bb07fa251f4b886811b",
+  "prompts": {},
+  "humans": {
+    "h_710b3f73d0a3ea": {
+      "author": "yaozongchao1 <yaozongchao1@jd.com>"
+    }
+  }
+}
