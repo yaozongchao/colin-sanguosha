@@ -1,0 +1,18 @@
+_headers
+  h_710b3f73d0a3ea 20-23
+guard.js
+  h_710b3f73d0a3ea 1-340
+index.html
+  h_710b3f73d0a3ea 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "aabbd7d762ac92ebf66282912ecbb011277ba81b",
+  "prompts": {},
+  "humans": {
+    "h_710b3f73d0a3ea": {
+      "author": "yaozongchao1 <yaozongchao1@jd.com>"
+    }
+  }
+}
