@@ -1,0 +1,18 @@
+noname/init/index.js
+  h_710b3f73d0a3ea 111
+noname/init/onload.js
+  h_710b3f73d0a3ea 760
+noname/ui/create/menu/index.js
+  h_710b3f73d0a3ea 425
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "bd1898f21357856623430e8765c0f259115d62a0",
+  "prompts": {},
+  "humans": {
+    "h_710b3f73d0a3ea": {
+      "author": "yaozongchao1 <yaozongchao1@jd.com>"
+    }
+  }
+}
