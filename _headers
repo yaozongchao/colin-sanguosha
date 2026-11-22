@@ -17,6 +17,10 @@
   Content-Type: application/javascript; charset=utf-8
   Cache-Control: public, max-age=0, must-revalidate
 
+/guard.js
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=0, must-revalidate
+
 /*.js
   Content-Type: application/javascript; charset=utf-8
 
