@@ -1,0 +1,16 @@
+_headers
+  h_710b3f73d0a3ea 2,19-27
+game/game.js
+  h_710b3f73d0a3ea 242-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "af8907928a4992bc37ed0236653c102e3e0cfe6f",
+  "prompts": {},
+  "humans": {
+    "h_710b3f73d0a3ea": {
+      "author": "yaozongchao1 <yaozongchao1@jd.com>"
+    }
+  }
+}
