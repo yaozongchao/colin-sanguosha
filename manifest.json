@@ -1,0 +1,24 @@
+{
+  "name": "三国杀",
+  "short_name": "三国杀",
+  "icons": [
+    {
+      "src": "assets/meta/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/meta/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#1a1a1a",
+  "display": "fullscreen",
+  "theme_color": "#1a1a1a",
+  "description": "三国杀单机版 - 属于Colin的三国杀PWA",
+  "orientation": "landscape"
+}
