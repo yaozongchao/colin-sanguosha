@@ -239,64 +239,7 @@ new Promise((resolve) => {
 			document.head.appendChild(script);
 		};
 
-		if (
-			location.protocol.startsWith("http") &&
-			"serviceWorker" in navigator
-		) {
-			let scope =
-				window.location.protocol + "//" + window.location.host + "/";
-			navigator.serviceWorker
-				.getRegistrations()
-				.then(async (registrations) => {
-					let findServiceWorker = registrations.find(
-						(registration) => {
-							return (
-								registration &&
-								registration.active &&
-								registration.active.scriptURL ==
-									`${scope}service-worker.js`
-							);
-						}
-					);
-					try {
-						const registration_1 =
-							await navigator.serviceWorker.register(
-								`${scope}service-worker.js`,
-								{
-									type: "module",
-									updateViaCache: "all",
-									scope,
-								}
-							);
-						// 初次加载worker，需要重新启动一次
-						if (!findServiceWorker) location.reload();
-						// 接收消息，暂时没用到
-						navigator.serviceWorker.addEventListener(
-							"message",
-							(e) => {
-								console.log(e);
-							}
-						);
-						registration_1
-							.update()
-							.catch((e) =>
-								console.error("worker update失败", e)
-							);
-						if (!sessionStorage.getItem("canUseTs")) {
-							await import("./canUse.ts")
-								.then(({ text }) => console.log(text))
-								.catch(() => {
-									sessionStorage.setItem("canUseTs", "1");
-									location.reload();
-								});
-						}
-					} catch (e_1) {
-						console.log("serviceWorker加载失败: ", e_1);
-					}
-				})
-				.finally(loadEntryJs);
-		} else {
-			loadEntryJs();
-		}
+		// PWA 模式下直接由 sw.js 统一接管缓存，跳过冲突的模块级 service-worker 与 canUse.ts 探测
+		loadEntryJs();
 	}
 });
